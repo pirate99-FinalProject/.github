@@ -37,7 +37,7 @@
 
 #
 
-## 2. 기술 스택 🔨
+## 기술 스택 🔨
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -71,7 +71,7 @@
 
 #
 
-## 3. 주요 기능 소개 🗂
+## 주요 기능 소개 🗂
 
 | 장소 검색 | 예약(웨이팅) 시스템 |
 |:------:|:------:|
@@ -85,13 +85,15 @@
 |- 장소 리뷰 작성 및 조회 기능<br> - 리뷰 등록 시 스토어 정보 갱신(별점, 리뷰 갯수)<br>|- 웨이팅 현황 확인<br> - 웨이팅 호출(이메일)<br>|
 
 #
-## 4. 시연영상 🎥
+## 시연영상 🎥
 [시연영상 바로가기](https://www.youtube.com/watch?v=iY3YxFOawYs)
 
-## 5. 서비스 아키텍처 🎨
+#
+## 서비스 아키텍처 🎨
 ![image](https://user-images.githubusercontent.com/117708164/216933029-f5c882eb-daec-4216-a27c-56822226726f.png)
 
-## 6. ERD 👨🏻‍💻
+#
+## ERD 👨🏻‍💻
 <details>
 <summary> 펼쳐보기 </summary>
 <div markdown="1">  
@@ -101,10 +103,12 @@
 </div>
 </details>
 
-## 7. API 💬
+#
+## API 💬
 [Swagger API 바로가기](https://pintable.co.kr/swagger-ui/index.html?urls.primaryName=store#/store-controller/createStoreUsingPOST)
 
-## 8. 트러블슈팅 🐞
+#
+## 트러블슈팅 🐞
 
 <details>
 <summary> 데이터 수집 </summary>
