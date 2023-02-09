@@ -86,7 +86,7 @@
 
 #
 ## 시연영상 🎥
-[시연영상 바로가기](https://www.youtube.com/watch?v=iY3YxFOawYs)
+[시연영상 바로가기](https://www.youtube.com/watch?v=HmiIVvJn6I8&t=21s)
 
 #
 ## 서비스 아키텍처 🎨
