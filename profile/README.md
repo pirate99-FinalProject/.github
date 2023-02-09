@@ -12,7 +12,7 @@
 ## Pin-Table 기록지
 
 [📘 핀테이블 브로슈어](https://www.notion.so/PIN-TABLE-3985986345c640969a8a8a5c3cabb3e1)<br>
-[📗 핀테이블 Notion](https://www.notion.so/PIN-TABLE-3985986345c640969a8a8a5c3cabb3e1)
+[📗 핀테이블 Notion](https://speckle-apple-b3b.notion.site/Pin-Table-d4c37b30fd804199b3392045c0080129)
 
 #
 ## 프로젝트 소개 📢
