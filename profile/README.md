@@ -14,6 +14,9 @@
 [📘 핀테이블 브로슈어](https://www.notion.so/PIN-TABLE-3985986345c640969a8a8a5c3cabb3e1)<br>
 [📗 핀테이블 Notion](https://speckle-apple-b3b.notion.site/Pin-Table-d4c37b30fd804199b3392045c0080129)
 
+![핀테이블_상장](https://user-images.githubusercontent.com/117708164/219948240-f23f37d1-b161-4695-b895-b0f824d9912a.png)
+
+
 #
 ## 프로젝트 소개 📢
 - 설명 : 
